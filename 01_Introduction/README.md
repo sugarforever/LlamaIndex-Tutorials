@@ -2,6 +2,8 @@
 
 `LlamaIndex` 是一个用于 `LLM` 应用程序的数据框架，用于注入，结构化，并访问私有或特定领域数据。
 
+`LlamaIndex` 由 Jerry Liu (Twitter: [@jerryjliu0](https://twitter.com/jerryjliu0)) 联合创办，并担任CEO。
+
 ## LlamaIndex为何而生？
 
 在本质上，`LLM`（如`GPT`）为人类和推断出的数据提供了基于自然语言的交互接口。广泛可用的大模型通常在大量公开可用的数据上进行的预训练，包括来自维基百科、邮件列表、书籍和源代码等。
