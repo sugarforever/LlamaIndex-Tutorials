@@ -10,6 +10,7 @@
 
 LlamaIndex应运而生。
 
+![LlamaIndex应运而生](./01_1.png)
 ## LlamaIndex如何破局？
 
 `LlamaIndex` 提供了5大核心工具：
@@ -18,6 +19,8 @@ LlamaIndex应运而生。
 - Engines
 - Data agents
 - Application integrations
+
+![LlamaIndex核心工具](./01_2.png)
 
 ## 一个简单的LlamaIndex应用
 
