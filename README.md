@@ -6,4 +6,4 @@
 
 ## 目录
 
-1. [简介](./01_Introduction)
+1. [什么是LlamaIndex？](./01_Introduction)
