@@ -20,3 +20,5 @@ LlamaIndex应运而生。
 - Application integrations
 
 ## 一个简单的LlamaIndex应用
+
+[01_Introduction.ipynb](./01_Introduction.ipynb)
