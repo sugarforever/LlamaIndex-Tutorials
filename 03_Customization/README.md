@@ -63,4 +63,12 @@ query_engine = index.as_query_engine(streaming=True)
 
 ## 完整实例
 
-请参考 ，这是一个基于第1课的示例实现上述的所有个性化配置。
+请参考[03_Customization.ipynb](./03_Customization.ipynb) ，这是一个基于第1课的示例实现上述的所有个性化配置：
+1. 文档分块大小：500
+2. Chromadb作为向量存储
+3. 自定义检索文档数为5
+4. 指定大模型为OpenAI的模型
+5. 响应模式为 `tree_summarize`
+6. 问答实现流式响应
+
+注，响应模式会在后续课程中详细介绍。
