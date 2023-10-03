@@ -8,4 +8,5 @@
 
 1. 什么是LlamaIndex？[链接](./01_Introduction)
 2. 核心概念 [链接](./02_Core_Concepts)
-2. 个性化配置 [链接](./03_Customization)
+3. 个性化配置 [链接](./03_Customization)
+4. 数据连接器 [链接](./04_Data_Connectors)
