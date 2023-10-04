@@ -27,7 +27,7 @@
 
 ## LlamaHub
 
-`LlamaIndex` 的数据连接器通过 [LlamaHub](https://llamahub.ai/) 提供。`LlamaHub` 是一个开源仓库，包含可轻松集成到任何 `LlamaIndex`。
+`LlamaIndex` 的数据连接器通过 [LlamaHub](https://llamahub.ai/) 提供。`LlamaHub` 是一个开源仓库，包含可轻松集成到任何 `LlamaIndex` 应用。
 
 ![LlamaHub](./llama_hub.png)
 
